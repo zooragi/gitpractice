@@ -1,1 +1,10 @@
-a
+function(){
+
+
+	a + b = 2
+	z + y =4
+
+	return 0;
+
+
+}
